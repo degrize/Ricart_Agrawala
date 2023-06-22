@@ -13,7 +13,7 @@ Algorithme of Distributed system with python
 Open source
 
 ### Teacher :
-    Dr. LOKPO IBRAHIM
+    Dr. LOKPO BRAHIMA
 
 ### Students
     - BINI Aladji Kassoum
