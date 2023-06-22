@@ -18,6 +18,8 @@ Open source
 ### Students
     - BINI Aladji Kassoum
     - KONAN Kouadio Aimé Junior Stéphane
-    - MEDA Kechiedou Luis-Borges Dégrize
+    - MEDA Kechiedou Luis-Borges Dégrize *
+    - DIOMANDE Bakarim
+    - YAO Yao Cyrille
     
     student engineer cumputerscientist 2nd year 
