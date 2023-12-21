@@ -1,9 +1,9 @@
 # Ricart_Agrawala
 Algorithme of Distributed system with python
 
-![](./preview.png)
+![](./prseview.png)
 
-![](https://drive.google.com/file/d/1CcLGOxqD9jiW0DYr689nhIA1FHMxEeoN/view?usp=drive_link)
+![](https://drive.google.com/file/d/1CcLGOxqD9jiW0DYr689nhIA1FHMxEeoN/view?usp=sharing)
 
 ### How we can run
 ###### run it in a network, you can use many IP addresses to see the distributed system
