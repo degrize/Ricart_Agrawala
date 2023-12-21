@@ -3,7 +3,7 @@ Algorithme of Distributed system with python
 
 ![](./preview.png)
 
-![](https://drive.google.com/uc?export=download&id=1CcLGOxqD9jiW0DYr689nhIA1FHMxEeoN)
+![](https://drive.google.com/file/d/1CcLGOxqD9jiW0DYr689nhIA1FHMxEeoN/view?usp=drive_link)
 ### How we can run
 ###### run it in a network, you can use many IP addresses to see the distributed system
     python main.py
