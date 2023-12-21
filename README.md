@@ -6,7 +6,7 @@ Algorithme of Distributed system with python
 
 ### How we can run
 
-![](https://drive.google.com/file/d/1CcLGOxqD9jiW0DYr689nhIA1FHMxEeoN/view?usp=drive_link)
+![](https://drive.google.com/uc?export=download&id=1CcLGOxqD9jiW0DYr689nhIA1FHMxEeoN)
 ###### run it in a network, you can use many IP addresses to see the distributed system
 ``
 python main.py
